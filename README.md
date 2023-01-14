@@ -7,8 +7,6 @@ links:
 https://github.com/davidherring1998/PWA-application-new
 
 screenshots: 
-![Screenshot 2023-01-14 at 11 03 51 AM](https://user-images.githubusercontent.com/106282330/212485542-34b21ee6-11f5-4c52-9438-75ebc68d5
+![Screenshot 2023-01-14 at 11 04 12 AM](https://user-images.githubusercontent.com/106282330/212485620-28ad4adc-793c-4bb5-8350-1ec9e6150d04.png)
+![Screenshot 2023-01-14 at 11 03 51 AM](https://user-images.githubusercontent.com/106282330/212485625-596cd0a2-4891-497a-a077-f832f7a811de.png)
 
-
-![Screenshot 2023-01-14 at 11 04 12 AM](https://user-images.githubusercontent.com/106282330/212485546-7bfaae77-c7ac-4774-b40e-161572b2f0c6.png)
-0b6.png)
